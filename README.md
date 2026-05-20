@@ -2,7 +2,7 @@
 
 This curated space serves as a systematic reading path to master how domain knowledge, structural constraints, and physical laws are hardcoded into modern neural network architectures.
 
-> *"An unconstrained neural network is just an expensive way to overfit your training data."* >
+> *"An unconstrained neural network is just an expensive way to overfit your training data."*
 >
 > This repository compiles the foundational, classic, and recent state-of-the-art papers that prove how introducing the right **inductive bias** can dramatically improve sample efficiency, out-of-distribution (OOD) generalization, and interpretability.
 
